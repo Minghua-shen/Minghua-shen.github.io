@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Minghua"
-  avatar           : # path of avatar image, e.g. "/assets/images/mm-dog.jpg"
+  avatar           : "/assets/images/mm-dog.jpg"
   bio              : "I am an **Freshwater** person."
   location         : "Somewhere"
   email            :
