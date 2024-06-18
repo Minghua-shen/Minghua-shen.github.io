@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Germany, Leipzig"
+locale                   : "Germany,Leipzig"
 title                    : "Minghua Shen"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -112,9 +112,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minghua"
-  avatar           : "/assets/images/mm-dog.jpg"
-  bio              : "I am an **Freshwater** person."
+  name             : "Your Name"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
