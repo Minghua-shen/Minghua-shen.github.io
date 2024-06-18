@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Minghua"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.JPG"
   bio              : "I am an **Freshwater** person."
   location         : "Somewhere"
   email            : minghua.shen@idiv.de
